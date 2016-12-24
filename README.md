@@ -1,3 +1,3 @@
-Custamizer version of "poarse-server-example" for quick setup.
+Customized version of "parse-server-example" for quick setup.
 
-Find complete Guide on: https://alem-cookfood.blogspot.in/
+Find complete guide at: https://alem-cookfood.blogspot.in/
